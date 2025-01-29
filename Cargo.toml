@@ -1,0 +1,10 @@
+[package]
+name = "syn"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+syn = "1.0"
+pnet = "*"
+tun-tap = "0.1.4"
+etherparse = "0.13.0"
